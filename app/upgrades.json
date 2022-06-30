@@ -1,7 +1,7 @@
 [
 {id: 0, label: 'Slow Clicker', ratepersecond:1, minclicks:10},
 {id: 1, label: 'Okay Clicker', ratepersecond:5, minclicks:50},
-{id: 2, label: 'Ultra Clicker', ratepersecond:20, minclicks:500},
+{id: 2, label: 'Ultra Clicker', ratepersecond:20, minclicks:5},
 {id: 3, label: 'Hyper Clicker', ratepersecond:100, minclicks:5000},
 {id: 4, label: 'Mega Clicker', ratepersecond:350, minclicks:20000},
 {id: 5, label: 'Giga Clicker', ratepersecond:1000, minclicks:100000},
